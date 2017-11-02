@@ -5,6 +5,3 @@ class Test
     @name = name
   end
 end
-
-michael = Test.new('Michael')
-puts michael.name
